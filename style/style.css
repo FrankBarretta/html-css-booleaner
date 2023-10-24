@@ -1,0 +1,51 @@
+* {
+    margin:  0;
+}
+
+* a:visited {
+    color: blue;
+}
+
+.blue_header {
+    background-color: cornflowerblue;
+    background-image: url('./img/pattern.png');
+}
+
+.img_control {
+    width: 200px;
+    margin: 25px 5px;
+}
+
+.margin_zero {
+    padding: 0%;
+}
+
+.mini_p {
+    font-size: small
+}
+
+
+.margin_bottom_high {
+    margin-bottom: 2%;
+}
+
+.margin_left_high {
+    margin-left: 1%;
+}
+
+.margin_top_high {
+    margin-top: 2%;
+}
+
+.table_head {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.bg_yellow {
+    background-color: yellow;
+}
+
+.table_data {
+    background-color: lightblue;
+}
