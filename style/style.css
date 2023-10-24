@@ -21,7 +21,7 @@
 }
 
 .mini_p {
-    font-size: small
+    font-size: small;
 }
 
 
@@ -48,4 +48,23 @@
 
 .table_data {
     background-color: lightblue;
+}
+
+footer {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 1%;
+    margin-top: 50px;
+}
+
+.no_underline {
+    text-decoration: none;
+}
+
+.margin_left_short {
+    padding-left: 15px;
+}
+
+.padding_right_high {
+    padding-right: 400px;
 }
